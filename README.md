@@ -1,2 +1,6 @@
 # jogoGenesis
-Jogo Gênesis no JavaScript
+Jogo Gênesis utilizando:
+
+  - HTML
+  - CSS
+  - JavaScript
